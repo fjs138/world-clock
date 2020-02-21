@@ -14,8 +14,8 @@ A world clock with a few features, in Ember.js.
 <i>*Bower has been deprecated, but is still maintained, as of 2020. You may want to look to npm, Yarn, and webpack as future alternatives.</i>
 
 
-# Additional General Ember.js Support
-## Running / Development
+# Ember.js Support
+### Running / Development
 
 * `ember server`
 * Access it at [http://localhost:4200](http://localhost:4200).
