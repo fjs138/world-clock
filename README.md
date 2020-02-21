@@ -6,9 +6,11 @@ A world clock with a few features, in Ember.js.
 
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/) (Bower has been deprecated, but is still maintained, as of 2-21-20. You may want to look to npm, Yarn, and webpack as future alternatives.)
+* [Bower](http://bower.io/)*
 * [Ember CLI](http://www.ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
+
+*Bower has been deprecated, but is still maintained, as of 2-21-20. You may want to look to npm, Yarn, and webpack as future alternatives.
 
 
 # Additional General Ember.js Support
