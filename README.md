@@ -5,7 +5,8 @@ A world clock with a few features, in Ember.js.
 ## Prerequisites:
 
 * [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM)
+* - [Node.js](http://nodejs.org/)
+     - [NPM](https://www.npmjs.com/)
 * [Bower](http://bower.io/)*
 * [Ember CLI](http://www.ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
