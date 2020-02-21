@@ -1,8 +1,8 @@
 # Ember.js World-clock "web app"
 
-A basic world clock with a few features done as an exercise in Ember.js.
+A world clock with a few features, in Ember.js.
 
-## Prerequisites (YMMV):
+## Prerequisites:
 
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) (with NPM)
