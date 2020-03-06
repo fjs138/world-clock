@@ -29,3 +29,6 @@ A world clock with a few features, in Ember.js.
 
 * `ember build` (development)
 * `ember build --environment production` (production)
+
+# License
+MIT
